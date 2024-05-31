@@ -1,0 +1,1 @@
+D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\cxx\Debug\1s1q2b5u\obj\armeabi-v7a

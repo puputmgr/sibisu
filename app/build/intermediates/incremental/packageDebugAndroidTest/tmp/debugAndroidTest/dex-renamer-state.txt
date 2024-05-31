@@ -1,0 +1,7 @@
+#Thu Mar 21 20:39:20 WIB 2024
+base.0=D\:\\Lectures\\LE - In Progress\\SEKERIPSHI\\Projek Skripsi\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=D\:\\Lectures\\LE - In Progress\\SEKERIPSHI\\Projek Skripsi\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\13\\classes.dex
+path.0=0/classes.dex
+path.1=13/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

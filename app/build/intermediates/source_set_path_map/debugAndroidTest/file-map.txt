@@ -1,0 +1,7 @@
+com.tencent.yolov8ncnn.test.app-androidTest-0 D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\generated\res\resValues\androidTest\debug
+com.tencent.yolov8ncnn.test.app-androidTest-1 D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\generated\res\rs\androidTest\debug
+com.tencent.yolov8ncnn.test.app-mergeDebugAndroidTestResources-2 D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.tencent.yolov8ncnn.test.app-mergeDebugAndroidTestResources-3 D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.tencent.yolov8ncnn.test.app-merged_res-4 D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\merged_res\debugAndroidTest
+com.tencent.yolov8ncnn.test.app-androidTest-5 D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\androidTest\res
+com.tencent.yolov8ncnn.test.app-androidTestDebug-6 D:\Lectures\LE - In Progress\SEKERIPSHI\Projek Skripsi\ncnn-android-yolov8-main\ncnn-android-yolov8\app\src\androidTestDebug\res

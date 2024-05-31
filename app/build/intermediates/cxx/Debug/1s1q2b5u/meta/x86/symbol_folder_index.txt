@@ -1,0 +1,1 @@
+E:\skripsi deteksi\ncnn-android-yolov8-main2\ncnn-android-yolov8-main\ncnn-android-yolov8\app\build\intermediates\cxx\Debug\1s1q2b5u\obj\x86

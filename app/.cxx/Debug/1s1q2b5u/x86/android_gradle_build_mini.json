@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "E:\\skripsi deteksi\\ncnn-android-yolov8-main2\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\puput\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "E:\\skripsi deteksi\\ncnn-android-yolov8-main2\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\.cxx\\Debug\\1s1q2b5u\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\puput\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "E:\\skripsi deteksi\\ncnn-android-yolov8-main2\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\.cxx\\Debug\\1s1q2b5u\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "artifactName": "yolov8ncnn",
+      "buildCommandComponents": [
+        "C:\\Users\\puput\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "E:\\skripsi deteksi\\ncnn-android-yolov8-main2\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\.cxx\\Debug\\1s1q2b5u\\x86",
+        "yolov8ncnn"
+      ],
+      "abi": "x86",
+      "output": "E:\\skripsi deteksi\\ncnn-android-yolov8-main2\\ncnn-android-yolov8-main\\ncnn-android-yolov8\\app\\build\\intermediates\\cxx\\Debug\\1s1q2b5u\\obj\\x86\\libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}
